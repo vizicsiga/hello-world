@@ -1,3 +1,4 @@
 ---2019.09.26----------------
 git klienst relepíteni kell a gépre
+IntelliJ community-t is telepíteni kell
 --------<EOF>----------------
