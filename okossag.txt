@@ -16,9 +16,16 @@
 	git add okossag.txt  --- modified
 	git add ulygepen_csinaltam.txt  -- uj file felkerül a szinpadra
 	git restore <file>..." to discard changes in working directory
-	git add * után git status -ra
+	git add * ---> után git status -ra
 	(use "git restore --staged <file>..." to unstage)
         modified:   okossag.txt
         new file:   ulygepen_csinaltam.txt
 	git commit -m "most benne a local ulygep repoban"   --- most  benne a local repoban
+	ekkor Committer: ****teljnevem*** <***nevem@xxxx.com> ami nem jó
+	megváltoztatni nevet cimet:
+	git config --global --edit    ---> szövszerjben átirni vizicsiga és g6_emil
+	utána After doing this, you may fix the identity used for this commit with:
+    git commit --amend --reset-author
+	távoli repoba:
+	git push
 --------<EOF>----------------
