@@ -4,5 +4,6 @@
   use the openssel lib
   checkout windows-style, commit linux style
   use mintty
+  file:///C:/Users/vargaz/prg/Git/mingw64/share/doc/git-doc/   doksik
 2., IntelliJ community-t is telepíteni kell 
 --------<EOF>----------------
