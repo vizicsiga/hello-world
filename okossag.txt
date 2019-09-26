@@ -1,4 +1,8 @@
 ---2019.09.26----------------
-git klienst relepíteni kell a gépre
-IntelliJ community-t is telepíteni kell
+1., git klienst relepíteni kell a gépre --> https://git-scm.com/downloads  2.23.0
+  windowson def editor notepad33
+  use the openssel lib
+  checkout windows-style, commit linux style
+  use mintty
+2., IntelliJ community-t is telepíteni kell 
 --------<EOF>----------------
