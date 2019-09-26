@@ -5,5 +5,7 @@
   checkout windows-style, commit linux style
   use mintty
   file:///C:/Users/vargaz/prg/Git/mingw64/share/doc/git-doc/   doksik
+  Ez egy publikus repo , abban akönyvtárban ahova akarom a repo gyereket:
+  git clone https://github.com/vizicsiga/hello-world
 2., IntelliJ community-t is telepíteni kell 
 --------<EOF>----------------
