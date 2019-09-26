@@ -26,6 +26,7 @@
 	git config --global --edit    ---> szövszerjben átirni vizicsiga és g6_emil
 	utána After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
+	git show  --->  utolso 2 kommit között a különbség alapbol
 	távoli repoba:
 	git push
 --------<EOF>----------------
